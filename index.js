@@ -10,8 +10,8 @@ const element = (
 
     <div>
       <Button content="Like" className="like btn" />
-      <Button content="Comment" className="comment btn" />
       <Button content="Share" className="share btn" />
+      <Button content="Comment" className="comment btn" />
     </div>
   </div>
 );
